@@ -182,6 +182,12 @@ pyrightconfig.json
 # vosk model
 study_buddy/media2text/vosk_model/*
 
+milvus_llamaindex.db
+
+# SQLite DB
+courses
+courses.db
+
 # Experimental code
 RnD
 
